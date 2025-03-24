@@ -12,8 +12,8 @@ int main() {
         cout << "                       Tugas Akhir Semester Pemrograman Lanjut" << endl;
         cout << "Mencari Akar Persamaan Polinomial dengan Metode Newton Raphson dan Metode Secant" << endl;
         cout << "---------------------------------------------------------------------------------" << endl;
-        cout << "Nama   : Jerico Christianto" << endl;
-        cout << "NPM    : 2220501082" << endl;
+        cout << "Nama   : Jerico " << endl;
+        cout << "NPM    : ----------" << endl;
         cout << "---------------------------------------------------------------------------------" << endl;
         cout << "Pilih metode untuk mencari akar dari persamaan polinomial:" << endl;
         cout << "1. Metode Newton Raphson" << endl;
