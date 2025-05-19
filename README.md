@@ -27,9 +27,7 @@ The roots of polynomial equations are the values that make the equation equal to
 - Steps:
   1. Choose an initial point \( x_0 \).
   2. Iterate using the formula:
-     $$
-     x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}
-     $$
+     ![Newton Raphson Formula](images/newton-raphson-formula.png)
   3. Repeat until convergence.
 
 ### Secant Method
@@ -37,9 +35,7 @@ The roots of polynomial equations are the values that make the equation equal to
 - Steps:
   1. Choose two initial points \( x_0 \) and \( x_1 \).
   2. Iterate using the formula:
-     $$
-     x_{n+1} = x_1 - \frac{(x_1 - x_0) f(x_1)}{f(x_1) - f(x_0)}
-     $$
+     ![Secant Formula](images/secant-formula.png)
   3. Repeat until convergence.
 
 ## Implementation in Code
