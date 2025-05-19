@@ -1,14 +1,7 @@
 # README.md
 
 ## Title
-Final Project Report for Advanced Programming: Finding Roots of Polynomial Equations Using Newton Raphson and Secant Methods in C++ Programming
-
-## Author
-- **Name**: Jerico Christianto
-- **Student ID**: 2220501082
-- **Study Program**: Bachelor of Electrical Engineering
-- **Faculty**: Engineering, Tidar University
-- **Academic Year**: Odd Semester 2024/2025
+Finding Roots of Polynomial Equations Using Newton Raphson and Secant Methods in C++ Programming
 
 ## Description
 This report discusses the search for roots of polynomial equations using two numerical methods, namely the Newton-Raphson Method and the Secant Method. Both methods are implemented in the C++ programming language and are used to solve root-finding problems in various scientific and engineering applications.
