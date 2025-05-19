@@ -27,16 +27,20 @@ The roots of polynomial equations are the values that make the equation equal to
 - Steps:
   1. Choose an initial point \( x_0 \).
   2. Iterate using the formula:
+ 
+     
      ![Newton Raphson Formula](images/newton-raphson-formula.png)
-  3. Repeat until convergence.
+  4. Repeat until convergence.
 
 ### Secant Method
 - An alternative that does not require derivative calculations.
 - Steps:
   1. Choose two initial points \( x_0 \) and \( x_1 \).
   2. Iterate using the formula:
+ 
+     
      ![Secant Formula](images/secant-formula.png)
-  3. Repeat until convergence.
+  4. Repeat until convergence.
 
 ## Implementation in Code
 C++ is used to efficiently implement these algorithms. The program code includes:
