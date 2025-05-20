@@ -73,7 +73,13 @@ Both numerical methods can be relied upon to find roots of non-linear functions.
    ```bash
    ./program
    ```
+## Result
+1. Newton Raphson Method
 
+   ![Newton Raphson Method](images/newton-raphson-method.png)
+2. Secant Method
+
+   ![Secant Method](images/secant-method.png)
 ## License
 This project does not have a specific license. Please use it as needed.
 
